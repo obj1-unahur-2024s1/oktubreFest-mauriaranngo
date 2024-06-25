@@ -1,3 +1,3 @@
 class Marcas{
-	aaa
+	var prueba
 }
